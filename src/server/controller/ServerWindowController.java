@@ -34,7 +34,7 @@ public class ServerWindowController {
         }
     }
 
-    /**
+    /*
      * Change the listen status
      */
     public static void changeStatus() {
